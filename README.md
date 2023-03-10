@@ -4,7 +4,7 @@
 ## Table of Contents
  
 * [Description](#Description "Goto Description")
-* [Sneak Peak](#Sneak_Peak "Goto Sneak Peak")
+* [Sneak Peak](#Sneak Peak "Goto Sneak Peak")
 * [Contributions](#Contributions "Goto Contributions")
 * [Tests](#Tests "Goto Tests")
 * [Questions](#Questions "Goto Questions")
