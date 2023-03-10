@@ -4,7 +4,6 @@
 ## Table of Contents
  
 * [Description](#Description "Goto Description")
-* [Installation](#Installation "Goto Installation")
 * [Sneak Peak](#Sneak_Peak "Goto Sneak Peak")
 * [Contributions](#Contributions "Goto Contributions")
 * [Tests](#Tests "Goto Tests")
