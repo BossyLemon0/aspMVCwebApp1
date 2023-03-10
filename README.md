@@ -19,7 +19,7 @@ This project is a simple mvc project that teaches me the very basic of creating 
 
 ## Usage
 
-![picture of website](./public/assets/pictures/note_taker.jpeg)
+![picture of website](./WebApplication1/wwwroot/pictures)
 <br>
 [Application in action](https://watch.screencastify.com/v/LBPMlVQIvM8tOTbpcJV6)
 <br>
