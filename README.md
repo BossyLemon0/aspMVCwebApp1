@@ -5,7 +5,7 @@
  
 * [Description](#Description "Goto Description")
 * [Sneak Peak](#Sneak-peak "Goto Sneak Peak")
-* [Contributions](#Contributions "Goto Contributions")
+* [Contributions](#Contribution-guidelines "Goto Contributions")
 * [Tests](#Tests "Goto Tests")
 * [Questions](#Questions "Goto Questions")
 - - - -
