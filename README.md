@@ -21,8 +21,6 @@ This project is a simple mvc project that teaches me the very basic of creating 
 
 ![picture of website](./WebApplication1/wwwroot/pictures/MainPage.png)
 <br>
-[Application in action](https://watch.screencastify.com/v/LBPMlVQIvM8tOTbpcJV6)
-<br>
 [Deployed application](https://stormy-basin-51525.herokuapp.com/)
 
 ## Contribution Guidelines
