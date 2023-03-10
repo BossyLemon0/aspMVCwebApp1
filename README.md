@@ -5,7 +5,7 @@
  
 * [Description](#Description "Goto Description")
 * [Installation](#Installation "Goto Installation")
-* [Usage](#Usage "Goto Usage")
+* [Usage](#Sneak Peak "Goto Usage")
 * [Contributions](#Contributions "Goto Contributions")
 * [Tests](#Tests "Goto Tests")
 * [Questions](#Questions "Goto Questions")
@@ -17,11 +17,10 @@
 This project is a simple mvc project that teaches me the very basic of creating a crud application with asp.net and C#. The mvc struture in .net feels very familiar to a project using handlbars in javascript. 
 
 
-## Usage
+## Sneak Peak
 
 ![picture of website](./WebApplication1/wwwroot/pictures/MainPage.png)
 <br>
-[Deployed application](https://stormy-basin-51525.herokuapp.com/)
 
 ## Contribution Guidelines
 
