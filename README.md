@@ -5,7 +5,7 @@
  
 * [Description](#Description "Goto Description")
 * [Installation](#Installation "Goto Installation")
-* [Usage](#Sneak_Peak "Goto Usage")
+* [Sneak Peak](#Sneak_Peak "Goto Sneak Peak")
 * [Contributions](#Contributions "Goto Contributions")
 * [Tests](#Tests "Goto Tests")
 * [Questions](#Questions "Goto Questions")
